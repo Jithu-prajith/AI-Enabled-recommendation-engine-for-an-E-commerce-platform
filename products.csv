@@ -1,0 +1,16 @@
+product_id,product_name,category,description,price,rating
+P001,Apple iPhone 13,Electronics,Smartphone with A15 Bionic chip and dual camera,69999,4.6
+P002,Samsung Galaxy S21,Electronics,Android smartphone with AMOLED display,64999,4.5
+P003,OnePlus 9,Electronics,Fast and smooth smartphone with Snapdragon processor,49999,4.4
+P004,Redmi Note 12,Electronics,Budget smartphone with large display,19999,4.2
+P005,MacBook Air M1,Laptops,Lightweight laptop with Apple M1 chip,89999,4.8
+P006,Dell Inspiron 15,Laptops,Powerful laptop for work and study,55999,4.3
+P007,HP Pavilion,Laptops,Stylish laptop with Intel i5 processor,62999,4.4
+P008,Boat Rockerz 450,Accessories,Wireless Bluetooth headphones,1499,4.1
+P009,Sony WH-1000XM4,Accessories,Noise cancelling wireless headphones,24999,4.7
+P010,Logitech Wireless Mouse,Accessories,Ergonomic wireless mouse,999,4.0
+P011,Apple Watch Series 8,Wearables,Smartwatch with fitness tracking,45999,4.6
+P012,Mi Band 7,Wearables,Affordable fitness band with AMOLED display,3999,4.3
+P013,Nike Running Shoes,Fashion,Comfortable shoes for daily running,6999,4.4
+P014,Adidas Sports Shoes,Fashion,Durable sports shoes with grip,7499,4.5
+P015,Puma Casual Sneakers,Fashion,Stylish casual sneakers for daily wear,4999,4.2
